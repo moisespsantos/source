@@ -1,1 +1,7 @@
-ola tdo bem com :wq
+<?php
+
+class config {
+
+
+
+}
